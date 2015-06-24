@@ -1,0 +1,72 @@
+* {
+  font-family: 'Poiret One', cursive;
+  font-weight: 900;
+}
+h1 {
+  font-weight: 700;
+  font-size: 3rem;
+}
+h2 {
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+h3, h4 {
+  font-weight: 700;
+  font-size: 2rem;
+}
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.notas {
+  padding: 10px;
+  border: 1px solid #7e7e7e;
+}
+.altura_notas {
+  height: 200px;
+  overflow: auto;
+  margin-bottom: 20px;
+}
+h4.subt {
+  height: 50px;
+}
+.navbar-brand {
+  padding-top: 0;
+}
+.container-fluid .row .col-sm-3 form {
+  margin-bottom: 10px;
+}
+a.btn {
+  font-size: 1.4rem;
+  font-weight: 900;
+}
+.sub {
+  margin-bottom: 20px;
+}
+.crear_notas {
+  padding-top: 6px;
+}
+select option {
+  border-radius: 3px;
+}
+.blanco {
+  background-color: #FFF;
+}
+.gris {
+  background-color: #978D8D;
+}
+.verde {
+  background-color: #00FF0B;
+}
+.azul {
+  background-color: aqua;
+}
+.amarillo {
+  background-color: #FFF400;
+}
+.naranja {
+  background-color: #D68936;
+}
