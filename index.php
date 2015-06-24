@@ -61,8 +61,8 @@ $registronuevo = $_GET['registronuevo'];
             <div class="collapse navbar-collapse">
               <ul class="nav navbar-nav">
                 <li class="active"><a href="index.php">MyNotes<span class="sr-only">(current)</span></a></li>
-                <li><a href="index.php">Documentación</a></li>
-                  <li><a href="includes/contacto.php">Contacto</a></li>
+                <li><a href="https://github.com/Irakasleweb/mynotes">Documentación</a></li>
+                  <li><a href="http://www.imobach.es">Contacto</a></li>
               </ul>
                   <?php
     //Si se ha hecho login no mostraré el enlace para registrarse
